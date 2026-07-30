@@ -1,16 +1,15 @@
-## Hi there 👋
+## OIÊ sou joana
 
-<!--
-**JoanaLauDev/JoanaLauDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mim
 
-Here are some ideas to get you started:
+<ul>
+  <li>Tenho 29 anos</li>
+  <li>Estudo pedagogia</li>
+  <li>Amo coisas fofas</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Redes sociais
+
+[Linkedin](https://www.linkedin.com/in/joanalau/)
+
+<p><img scr="https://i.pinimg.com/originals/a6/f3/34/a6f33433013108e64ebdb7b680cce277.gif"</p>
