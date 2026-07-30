@@ -12,4 +12,5 @@
 
 [Linkedin](https://www.linkedin.com/in/joanalau/)
 
-<p><img scr="https://i.pinimg.com/originals/a6/f3/34/a6f33433013108e64ebdb7b680cce277.gif"</p>
+<p><img scr="<img width="483" height="356" alt="image" src="https://github.com/user-attachments/assets/cf9b724b-5fc9-4315-93a3-2cf48d1486bb" />
+"</p>
