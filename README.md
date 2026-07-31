@@ -3,7 +3,7 @@ $\color{#ff69b4}\Huge\text{OIÊ SOU JOANA}$
 # Sobre mim
 
 <ul>
-  <li>Tenho 29 anos</li>
+  <li>Tenho 21 anos</li>
   <li>Estudo pedagogia</li>
   <li>Amo coisas fofas</li>
 </ul>
