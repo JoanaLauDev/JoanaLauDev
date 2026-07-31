@@ -1,4 +1,4 @@
-##$\color{#ff69b4}\text{OIÊ SOU JOANA}$
+$\color{#ff69b4}\text{##OIÊ SOU JOANA}$
 
 # Sobre mim
 
