@@ -1,4 +1,4 @@
-<H1>$\color{#ff69b4}{OIÊ SOU JOANA}$</H1>
+$\color{#ff69b4}\Huge\text{OIÊ SOU JOANA}$
 
 # Sobre mim
 
