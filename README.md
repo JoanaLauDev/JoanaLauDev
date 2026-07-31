@@ -1,4 +1,4 @@
-##<span style="color: #ff69b4;">OIÊ SOU JOANA</span>
+<span style="color: #ff69b4;">OIÊ SOU JOANA</span>
 
 # Sobre mim
 
