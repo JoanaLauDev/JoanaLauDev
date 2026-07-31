@@ -1,4 +1,4 @@
-<span style="color: #ff69b4;">OIÊ SOU JOANA</span>
+$\color{#ff69b4}\text{OIÊ sou joana}$
 
 # Sobre mim
 
